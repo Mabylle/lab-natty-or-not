@@ -2,9 +2,7 @@
 
 ## 🚀Descrição
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma aula na [DIO](https://dio.me) com o professor Venilton da DIO [falvojr](https://www.linkedin.com/in/falvojr).
-
-Projeto com o objetivo de gerar um Vídeo (Avatar Virtual) Utilizando tecnologias de IAs para criar conteúdos que sejam o mais realista possível.
+ Projeto desenvolvido durante uma aula na [DIO](https://dio.me) com o professor Venilton [falvojr](https://www.linkedin.com/in/falvojr) com o objetivo de gerar um Vídeo (Avatar Virtual) utilizando diversas tecnologias de IAs para criar conteúdos que sejam o mais realista possível.
 
 ## 💻 Tecnologias utilizadas no projeto
 
