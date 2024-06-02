@@ -11,19 +11,19 @@ Projeto com o objetivo de gerar um Vídeo (Avatar Virtual) Utilizando tecnologia
 
 ## 💻 Tecnologias utilizadas no projeto
 
-📝- [ChatGPT](https://chat.openai.com/) 
-🎙️- [ElevenLabs](https://beta.elevenlabs.io/)
-🎙️- [Capcut](https://www.capcut.com/pt-br/)
-👩‍🦰- [d-id](https://www.d-id.com/)
+- [ChatGPT](https://chat.openai.com/) 
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
+- [d-id](https://www.d-id.com/)
 
 
 
 ## 🖥️🎦 Processo de criação
 
-📝- Roteiro gerado via ChatGPT
-🎙️- Audio gerado pela elevenLabsElevenLabs
-🎙️- Capcut para tratar aúdio e adicionar sons de fundo
-👩‍🦰- d-id para criar um avatar com o audio gerado
+- Roteiro gerado via ChatGPT
+- Audio gerado pela elevenLabsElevenLabs
+- Capcut para tratar aúdio e adicionar sons de fundo
+- d-id para criar um avatar com o audio gerado
 
 
 
