@@ -2,9 +2,6 @@
 
 ## 🚀Descrição
 
-# Projeto Gerado por I.A.s com revisão humana
-
-
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma aula na [DIO](https://dio.me) com o professor Venilton da DIO [falvojr](https://www.linkedin.com/in/falvojr).
 
 Projeto com o objetivo de gerar um Vídeo (Avatar Virtual) Utilizando tecnologias de IAs para criar conteúdos que sejam o mais realista possível.
@@ -36,4 +33,5 @@ Projeto com o objetivo de gerar um Vídeo (Avatar Virtual) Utilizando tecnologia
 </p>
 
 
-💻🎙️Por [Mabylle](https://github.com/Mabylle)
+
+## 💻🎙️Projeto Gerado por I.A.s com revisão humana de [Mabylle](https://github.com/Mabylle)
