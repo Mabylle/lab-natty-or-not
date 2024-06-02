@@ -1,51 +1,38 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+## 🚀Descrição
 
-> Woooow! Look at this 👀
+# Projeto Gerado por I.A.s
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma aula na [DIO](https://dio.me) com o professor Venilton da DIO [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Objetivos
+Projeto com o objetivo de gerar um Vídeo (Avatar Virtual) Utilizando tecnologias de IAs para criar conteúdos que sejam o mais realista possível.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+## 💻 Tecnologias utilizadas no projeto
 
-### Template
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
+- [d-id](https://www.d-id.com/)
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
-## 📒 Descrição
-Breve descrição do seu projeto
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 🖥️🎦 Processo de criação
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+📝 Roteiro gerado via chatgpt
+🎙️ Audio gerado pela elevenLabs
+🎙️Capcut para tratar aúdio e adicionar sons de fundo
+👩‍🦰d-id para criar um avatar com o audio gerado
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💻 Resultado do projeto
 
-### Exemplos e Insigths
+<p align="center">
+    <a href="https://studio.d-id.com/share?id=05cd5d208bbcce4fd748dfc282edf055&utm_source=copy" download="videoia.mp4">Clique aqui para baixar o vídeo</a>
+</p>
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💻🎙️🎦Por [Mabylle](https://github.com/Mabylle)
